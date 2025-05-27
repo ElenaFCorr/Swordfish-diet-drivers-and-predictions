@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15528189.svg)](https://doi.org/10.5281/zenodo.15528189)
 # Environmental and human factors shape the trophic ecology of a widespread marine predator
 This repository contains all the R code used in the article "Environmental and human factors shape the trophic ecology of a widespread marine predator" in press in *Journal of Animal Ecology*
 
