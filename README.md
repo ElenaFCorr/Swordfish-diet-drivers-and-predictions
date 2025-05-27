@@ -6,3 +6,11 @@ Integrative approaches that investigate trophic ecology drivers provide knowledg
 ![image](https://github.com/user-attachments/assets/c084acc3-cd7d-4f02-9763-bbdc9349a87d)
 
 
+## Data availability
+Stable isotopes data, MixSIAR results and drivers used in this project can be openly found at: [doi]
+
+## License
+Copyright (c) 2025 Elena Fernández Corredor Licensed under the MIT license.
+
+## Acknowledgements
+We thank all the technicians, researchers, and observers from IEO-CSIC involved in the onboard sampling of the individuals included in this study, especially to Laura Palacín, Samuel Valverde, and Matxalen Pauly, and the fishers that made this possible. This study is a contribution of the Trophic Ecology and Connectivity facility (TEC) of the Institute of Marine Science (ICM-CSIC). This work also acknowledges the “Severo Ochoa Centre of Excellence” accreditation (CEX2024-001494-S) to the Institute of Marine Science (ICM-CSIC). This work has been carried out within the framework of the Biodiversity PhD program of the Autonomous University of Barcelona. 
