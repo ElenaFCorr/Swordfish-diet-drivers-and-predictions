@@ -1,14 +1,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15528189.svg)](https://doi.org/10.5281/zenodo.15528189)
 # Environmental and human factors shape the trophic ecology of a widespread marine predator
-This repository contains all the R code used in the article "Environmental and human factors shape the trophic ecology of a widespread marine predator" in press in *Journal of Animal Ecology*
+This repository contains all the R code used in the article "Environmental and human factors shape the trophic ecology of a widespread marine predator" published in *Journal of Animal Ecology* (doi.org/10.1111/1365-2656.70087)
 
 Integrative approaches that investigate trophic ecology drivers provide knowledge to explore and predict changes in food-web dynamics under contrasting scenarios of global change. However, studies that analyze the relationship between environmental factors and trophic interactions, and that additionally consider other human stressors such as fisheries are few. Here, we use Bayesian Stable Isotope Mixing Models to study the trophic ecology of a widespread pelagic predatory fish, the swordfish (Xiphias gladius), in the western Mediterranean Sea and the adjacent Atlantic waters. We explore the relationships between dietary estimates and biological, environmental, and anthropogenic drivers using Generalized Additive Models (GAMs). GAMs are used to develop spatial predictions of present prey consumption and, as a prospective exercise, to project changes in prey consumption under different future climate change scenarios. Overall, we found that swordfish diet varied spatially and temporally as a response to changing environmental conditions, particularly to varying sea surface temperature (SST), mixed layer depth (MLD), and chlorophyll-a concentration (Chl); as well as fishing pressure. Fish consumption was positively related to SST and decreased with increasing MLD. In contrast, squid consumption was negatively related to SST and greatest among swordfish of intermediate lengths. Squid had a higher contribution to swordfish diet around the Canary Islands and the western Mediterranean Sea, while gelatinous organisms were more consumed around the Gulf of Cádiz. The consumption of gelatinous organisms was higher in smaller swordfish and in areas with lower productivity. Our prospective exercise suggested that swordfish diets will move towards greater consumption of fish under future global change scenarios. For the first time, we provide quantitative evidence of how large-scale spatial-temporal patterns in fishing pressure and environmental conditions can shape the diet of swordfish. Our study presents useful results to assess the diet of this predator and how it may change in the future.
 
 ![image](https://github.com/user-attachments/assets/c084acc3-cd7d-4f02-9763-bbdc9349a87d)
-
-
-## Data availability
-Stable isotopes data, MixSIAR results and drivers used in this project can be openly found at: [doi]
 
 ## License
 Copyright (c) 2025 Elena Fernández Corredor Licensed under the MIT license.
